@@ -28,7 +28,7 @@ function Home({ name, role, bio, img }) {
               {bio}
             </p>
 
-           <a href="/Alen_B_Koshy_luminar.pdf" download>
+       <a href="/ALEN_B_KOSHY_resume%20(9).pdf" download>
   <Button
     variant="contained"
     sx={{
